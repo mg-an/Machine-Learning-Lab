@@ -1,2 +1,2 @@
-# Machine-Learning-Primer
+# Machine-Learning-probability & stats - Primer
 Machine Learning Primer
